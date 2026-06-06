@@ -1,4 +1,4 @@
-# Lab 6 – Scale and Load Balance Your Architecture
+# Lab 8 – Scale and Load Balance Your Architecture
 
 ## Author
 
